@@ -1,4 +1,6 @@
 from kivy.app import App
 from kivy.uix.button import Button
 
-#Ой все таки не лишний
+from kivy.uix.button import Button
+from kivy.uix.button import Button
+from kivy.uix.button import Button
