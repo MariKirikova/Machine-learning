@@ -7,3 +7,4 @@ from kivy.animation import Animation
 
 
 #что то тут
+что это
